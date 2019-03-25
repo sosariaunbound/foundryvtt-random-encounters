@@ -1,0 +1,4 @@
+#actors.flexcolumn > .directory-footer {
+    height: auto;
+    flex-direction: column;
+}

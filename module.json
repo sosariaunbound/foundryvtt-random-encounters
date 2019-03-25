@@ -1,0 +1,11 @@
+{
+	"name": "encounter-creator",
+	"title": "D&D 5e Encounter Generator",
+	"description": "This module will allow DM's to create random encounters for their players.",
+	"version": "0.0.1",
+	"author": "Zach Bricker (tokee)",
+	"systems": ["dnd5e"],
+	"scripts": ["./encounter-creator.js"],
+	"styles": ["./encounter-creator.css"],
+	"packs": []
+}
