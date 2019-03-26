@@ -5,7 +5,7 @@
 	"version": "0.0.1",
 	"author": "Zach Bricker (tokee)",
 	"systems": ["dnd5e"],
-	"scripts": ["./encounter-creator.js"],
+	"scripts": ["./encounter-creator.js", "./encounter-creator-form.js"],
 	"styles": ["./encounter-creator.css"],
 	"packs": []
 }
